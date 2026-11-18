@@ -59,7 +59,9 @@ Business questions explored through SQL queries:
 
 3\. Power BI Dashboard
 
-An interactive dashboard was created to visualize customer shopping behavior and business insights.
+The interactive dashboard provides insights into customer shopping behavior, revenue, product performance, and purchasing trends.
+
+![Customer Behavior Dashboard](Customer_Dashboard.png)
 
 ## Key Project Deliverables
 
